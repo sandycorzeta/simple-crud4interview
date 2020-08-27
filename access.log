@@ -565,3 +565,4 @@
 127.0.0.1 - - [27/Aug/2020:22:20:38 +0700] "GET / HTTP/1.1" 200 1102 "http://simple-crud4interview.local/logout" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
 127.0.0.1 - - [27/Aug/2020:22:28:52 +0700] "GET / HTTP/1.1" 200 1232 "http://simple-crud4interview.local/logout" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
 127.0.0.1 - - [27/Aug/2020:22:29:26 +0700] "GET /login HTTP/1.1" 200 1150 "http://simple-crud4interview.local/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+127.0.0.1 - - [27/Aug/2020:22:38:23 +0700] "GET /login HTTP/1.1" 200 1277 "http://simple-crud4interview.local/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
