@@ -1,0 +1,8 @@
+[Thu Aug 27 18:22:13.612954 2020] [php7:notice] [pid 5147] [client 127.0.0.1:55486] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /mnt/c/var/www/html/simple-crud4interview/application/controllers/Main.php on line 31
+[Thu Aug 27 18:22:13.613362 2020] [php7:notice] [pid 5147] [client 127.0.0.1:55486] PHP Stack trace:
+[Thu Aug 27 18:22:13.613450 2020] [php7:notice] [pid 5147] [client 127.0.0.1:55486] PHP   1. {main}() /mnt/c/var/www/html/simple-crud4interview/index.php:0
+[Thu Aug 27 18:22:13.613522 2020] [php7:notice] [pid 5147] [client 127.0.0.1:55486] PHP   2. require_once() /mnt/c/var/www/html/simple-crud4interview/index.php:315
+[Thu Aug 27 18:22:51.340514 2020] [php7:notice] [pid 5147] [client 127.0.0.1:55490] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /mnt/c/var/www/html/simple-crud4interview/application/controllers/Main.php on line 31
+[Thu Aug 27 18:22:51.340681 2020] [php7:notice] [pid 5147] [client 127.0.0.1:55490] PHP Stack trace:
+[Thu Aug 27 18:22:51.340740 2020] [php7:notice] [pid 5147] [client 127.0.0.1:55490] PHP   1. {main}() /mnt/c/var/www/html/simple-crud4interview/index.php:0
+[Thu Aug 27 18:22:51.340790 2020] [php7:notice] [pid 5147] [client 127.0.0.1:55490] PHP   2. require_once() /mnt/c/var/www/html/simple-crud4interview/index.php:315
